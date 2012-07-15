@@ -7,3 +7,5 @@ TO DO
 --
 
 * Clean up the favicon
+
+* Touch support
