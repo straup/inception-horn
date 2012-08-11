@@ -1,0 +1,8 @@
+#button_wrapper {
+    height:440px;
+    width:392px;
+    position:absolute;
+    top:50%;left:50%;
+    margin-top:-220px;
+    margin-left:-196px
+}
